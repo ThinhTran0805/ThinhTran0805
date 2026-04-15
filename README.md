@@ -4,12 +4,13 @@
   <img src="https://github.com/ThinhTran0805.png" width="150" style="border-radius:50%; border: 2px solid #58a6ff;"/>
 </p>
 
-A passionate learner on the journey of mastering **Java** and solving problems. 
+A passionate learner on the journey of mastering **Java** and mastering algorithms. 
 Currently, I'm focusing on:
 
-- ☕ **Java Core:** Building a solid foundation for enterprise development.
-- 🧩 **Algorithm & Data Structures:** Solving challenges on **LeetCode**.
-- 🚀 **Projects:** Transforming ideas into working code.
+- 🎓 **MIU Entry Exam:** Sharpening problem-solving skills for Maharishi International University.
+- ☕ **Java Core:** Building a solid foundation for robust application development.
+- 🧩 **Data Structures & Algorithms:** Tackling challenges on **LeetCode** and specialized exam sets.
+- 🚀 **Projects:** Transforming logical thinking into clean, efficient code.
 
 ---
 
@@ -18,6 +19,7 @@ Currently, I'm focusing on:
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 
 ---
 
@@ -32,6 +34,7 @@ Currently, I'm focusing on:
 </p>
 
 ---
-### 📫 How to reach me
-- 💬 Ask me about **Java & Git**
-- 📫 Check out my repositories: [Java-Basics](https://github.com/ThinhTran0805/Java-Basics) | [LeetCode](https://github.com/ThinhTran0805/leetcode)
+### 📫 Connect with me
+- 🎯 **Current Goal:** Passing the MIU programming exam.
+- 💬 Ask me about **Java & Git**.
+- 📂 Featured Repos: [MIU-Java-Solutions](https://github.com/ThinhTran0805/MIU-Java-Solutions) | [LeetCode](https://github.com/ThinhTran0805/leetcode) | [Java-Basics](https://github.com/ThinhTran0805/Java-Basics)
