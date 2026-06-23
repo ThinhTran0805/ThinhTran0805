@@ -37,4 +37,4 @@ Currently, I'm focusing on:
 ### 📫 Connect with me
 - 🎯 **Current Goal:** Passing the MIU programming exam.
 - 💬 Ask me about **Java & Git**.
-- 📂 Featured Repos: [MIU-Java-Solutions](https://github.com/ThinhTran0805/MIU-Java-Solutions) | [LeetCode](https://github.com/ThinhTran0805/leetcode) | [Java-Basics](https://github.com/ThinhTran0805/Java-Basics)
+- 📂 Featured Repos: [MIU-Java-Solutions](https://github.com/ThinhTran0805/MIU-Java-Solutions) | [LeetCode](https://github.com/ThinhTran0805/leetcode) | [Java-Basics](https://github.com/ThinhTran0805/Java-Basics) | [Java-OOP](https://github.com/ThinhTran0805/Java-OOP) | [student-management-system-backend](https://github.com/ThinhTran0805/student-management-system-backend) 
